@@ -1,4 +1,4 @@
-WiFi Calling WiCall Application
+<h1>WiFi Calling WiCall Application</h1>
 
 Wicall lets you talk with your friends,family and colleagues over same Wi-Fi connection even if you do not have internet access.
 
