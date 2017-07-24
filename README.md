@@ -17,3 +17,5 @@ Some of the Features of WiCall :
 WiCall is intended to replace intercoms/pbxes in offices, educational instutions, hospitals, hotels etc.So if your establishment have people having Windows, Apple and Android devices and is managed by Wifi,WiCall will be helpful to replace PBX extensions installed on desks.Windows,Apple and Android device will become a wireless pbx extension.
 
 So you will not have to invest in pbx/intercom hardware for your establishment.
+
+Website: www.iiatelecom.com
